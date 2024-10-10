@@ -1,0 +1,48 @@
+# Visual Studio
+.vs/
+*.sln
+*.user
+*.userprefs
+*.suo
+*.ide
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Other files
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pdb
+*.cache
+*.dll
+*.exe
+*.ilk
+*.obj
+*.pdb
+*.vspx
+*.vssscc
+*.vspscc
+*.vsscc
+*.vsix
+*.nuspec
+*.snupkg
+*.scc
+*.vs/

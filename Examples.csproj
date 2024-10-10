@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Ex01.cs" />
+    <Compile Remove="Ex02.cs" />
+    <Compile Remove="Ex03.cs" />
+    <Compile Remove="Ex04.cs" />
+    <Compile Remove="Ex05.cs" />
+    <Compile Remove="Ex06.cs" />
+    <Compile Remove="Ex07.cs" />
+    <Compile Remove="Ex08.cs" />
+    <Compile Remove="Ex09.cs" />
+    <Compile Remove="Ex10.cs" />
+    <Compile Remove="Ex11.cs" />
+    <Compile Remove="EX11_20.cs" />
+    <Compile Remove="Ex12.cs" />
+    <Compile Remove="EX1_10.cs" />
+    <Compile Remove="EX21_30.cs" />
+    <Compile Remove="EX31_40.cs" />
+    <Compile Remove="EX41_50.cs" />
+    <Compile Remove="EX51_60.cs" />
+    <Compile Remove="EX61_70.cs" />
+    <Compile Remove="EX71_80.cs" />
+    <Compile Remove="EX81_90.cs" />
+    <Compile Remove="EX91_100.cs" />
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Ex01.cs" />
+    <None Include="Ex02.cs" />
+    <None Include="Ex03.cs" />
+    <None Include="Ex04.cs" />
+    <None Include="Ex05.cs" />
+    <None Include="Ex06.cs" />
+    <None Include="Ex07.cs" />
+    <None Include="Ex08.cs" />
+    <None Include="Ex09.cs" />
+    <None Include="Ex10.cs" />
+    <None Include="Ex11.cs" />
+    <None Include="EX11_20.cs" />
+    <None Include="Ex12.cs" />
+    <None Include="EX1_10.cs" />
+    <None Include="EX21_30.cs" />
+    <None Include="EX31_40.cs" />
+    <None Include="EX41_50.cs" />
+    <None Include="EX51_60.cs" />
+    <None Include="EX61_70.cs" />
+    <None Include="EX71_80.cs" />
+    <None Include="EX81_90.cs" />
+    <None Include="EX91_100.cs" />
+    <None Include="Program.cs" />
+  </ItemGroup>
+
+</Project>
